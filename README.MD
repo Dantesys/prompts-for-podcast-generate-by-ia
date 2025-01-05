@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-    <audio src="./output/podcast.MP3" controls title="Podcast editado"></audio>
+    <audio src="./output/podcast_fixGitHubPreview.wav" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
