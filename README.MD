@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-![Audio](https://github.com/Dantesys/prompts-for-podcast-generate-by-ia/raw/refs/heads/main/output/podcast.MP3)
+![Audio](https://github.com/Dantesys/prompts-for-podcast-generate-by-ia/blob/main/output/podcast.MP3)
 </div>
 
 # Projeto Podcast Gerado por I.A.s
