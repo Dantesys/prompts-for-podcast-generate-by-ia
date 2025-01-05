@@ -9,7 +9,7 @@
 </p>
 
 <div align="center">
-![Audio](./output/podcast.mp3)
+![Audio](output/podcast.mp3)
 </div>
 
 # Projeto Podcast Gerado por I.A.s
