@@ -8,7 +8,7 @@
 </p>
 
 <div align="center">
-    <audio src="https://github.com/Dantesys/prompts-for-podcast-generate-by-ia/blob/main/output/podcast.MP3" controls title="Podcast editado"></audio>
+    <audio src="./output/podcast.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
