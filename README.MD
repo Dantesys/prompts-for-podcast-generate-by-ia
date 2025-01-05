@@ -1,9 +1,14 @@
 <p align="center">
+<img 
+    src="./assets/capa.webp"
+    width="300"
+/>
+</p><p align="center">
     preview do podcast
 </p>
 
 <div align="center">
-    <audio src="output/podcast.MP3" controls title="Podcast editado"></audio>
+    <audio src="https://github.com/Dantesys/prompts-for-podcast-generate-by-ia/blob/main/output/podcast.MP3" controls title="Podcast editado"></audio>
 </div>
 
 # Projeto Podcast Gerado por I.A.s
@@ -31,7 +36,7 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 
 ## 🛠️ Instruções de execução
 
-Utilize os prompts dentro do link do `Notion` fornecido na parte de `Materiais` para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
+Utilize os prompts dentro do /src/prompts para criar um podcast de maneira automatizada, para isso siga o passo a passo abaixo.
 
 - 🤖 1. Use os prompts de roteiro no `chagpt`
 - 🤖 2. Use os prompts de roteiro gerados pelo chatgpt no  `ElevenLabs`
