@@ -1,4 +1,3 @@
-<script src="http://api.html5media.info/1.1.8/html5media.min.js"></script>
 <p align="center">
 <img 
     src="./assets/capa.webp"
