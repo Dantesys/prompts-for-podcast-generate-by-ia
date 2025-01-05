@@ -9,9 +9,7 @@
 </p>
 
 <div align="center">
-    <audio controls>
-      <source src="./output/podcast.MP#" type="audio/mpeg">
-    </audio>
+    ![Audio](./output/podcast.mp3)
 </div>
 
 # Projeto Podcast Gerado por I.A.s
